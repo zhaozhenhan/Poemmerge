@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Poem Merge Assignment
 
 It was six men of Indostan 
@@ -36,4 +35,12 @@ The Fourth reached out an eager hand,
     Is mighty plain,” quoth he; “ 
 ’Tis clear enough the Elephant 
     Is very like a tree!” 
+
+
+The Fifth who chanced to touch the ear, 
+    Said: “E’en the blindest man 
+Can tell what this resembles most; 
+    Deny the fact who can, 
+This marvel of an 
+    Elephant Is very like a fan!” 
 
